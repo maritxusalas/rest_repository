@@ -1,0 +1,21 @@
+package com;
+
+public class SwitchStatementExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	int choice = 2;
+	switch(choice) {
+	case 1:System.out.println("1st block");
+		break;
+	case 2:System.out.println("2st block");
+		break;
+	case 3:System.out.println("3st block");
+		break;
+	case 4:System.out.println("4st block");
+		break;
+	}
+	System.out.println("finish");
+	}
+
+}
