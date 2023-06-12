@@ -1,0 +1,20 @@
+package com;
+
+public class IfStatementExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//	 int age = 21;
+//	if (age>=21) {
+//		System.out.println("You can Vote!");
+//		
+//	}
+//	System.out.println("Finish");
+	
+	int a =10, b = 5;
+	if (a>b) {
+		System.out.println("A is largest");
+	} else {
+	}
+
+}
