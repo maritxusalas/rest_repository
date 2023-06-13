@@ -46,6 +46,7 @@ public class SwitchStatementExample {
 	
 	}
 	System.out.println("finish");
+	sc.close();
 	}
 
 }
