@@ -44,8 +44,10 @@ public class ArrayDemo {
 				sumOfEven=sumOfEven+data[i];
 							}else { sumOfOdd = sumOfOdd +data[i];
 		}
-			System.out.println("Sum of natural number is"+sumOfNaturalNumber);
-			
+		}
+			System.out.println("Sum of natural number is "+sumOfNaturalNumber);
+			System.out.println("Sum of even number is "+sumOfEven);
+			System.out.println("Sum of odd number is " +sumOfOdd);
 		
 		System.out.println("All elements are");
 		
@@ -54,7 +56,8 @@ public class ArrayDemo {
 		}
 	
 	}
-	}
+}
+	
 	
 	
 
