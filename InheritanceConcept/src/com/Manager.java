@@ -1,0 +1,14 @@
+package com;
+
+import java.util.concurrent.SynchronousQueue;
+
+public class Manager extends Employee{
+private int numberOfEmp;
+	void setManager (int numberOfEmp) {
+		this.numberOfEmp= numberOfEmp;
+	}
+	void disManager () {
+		//System.out.println("Manager information");
+		System.out.println("Number of employee is " +numberOfEmp);
+	}
+}
