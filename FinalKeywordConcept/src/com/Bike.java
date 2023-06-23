@@ -1,6 +1,6 @@
 package com;
 
-public final class Bike {
+public  class Bike {
 	final void speed() {
 		System.out.println("60km/h");
 	}
